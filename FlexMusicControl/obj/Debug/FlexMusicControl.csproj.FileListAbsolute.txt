@@ -1,0 +1,11 @@
+C:\Users\Andrew\source\repos\Wisp Player\WispDebug\FlexMusicControl.dll
+C:\Users\Andrew\source\repos\Wisp Player\WispDebug\FlexMusicControl.pdb
+C:\Users\Andrew\source\repos\Wisp Player\FlexMusicControl\obj\Debug\FlexMusicControl.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\Wisp Player\FlexMusicControl\obj\Debug\FlexMusicControl.g.cs
+C:\Users\Andrew\source\repos\Wisp Player\FlexMusicControl\obj\Debug\FlexMusicControl_MarkupCompile.cache
+C:\Users\Andrew\source\repos\Wisp Player\FlexMusicControl\obj\Debug\FlexMusicControl_MarkupCompile.lref
+C:\Users\Andrew\source\repos\Wisp Player\FlexMusicControl\obj\Debug\FlexMusicControl.baml
+C:\Users\Andrew\source\repos\Wisp Player\FlexMusicControl\obj\Debug\FlexMusicControl.g.resources
+C:\Users\Andrew\source\repos\Wisp Player\FlexMusicControl\obj\Debug\FlexMusicControl.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Wisp Player\FlexMusicControl\obj\Debug\FlexMusicControl.dll
+C:\Users\Andrew\source\repos\Wisp Player\FlexMusicControl\obj\Debug\FlexMusicControl.pdb

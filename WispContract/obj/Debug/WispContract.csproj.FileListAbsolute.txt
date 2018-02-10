@@ -1,0 +1,10 @@
+C:\Users\Andrew\source\repos\Wisp Player\WispContract\obj\Debug\WispContract.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Wisp Player\WispContract\bin\Debug\WisContract.dll.config
+C:\Users\Andrew\source\repos\Wisp Player\WispContract\bin\Debug\WisContract.dll
+C:\Users\Andrew\source\repos\Wisp Player\WispContract\bin\Debug\WisContract.pdb
+C:\Users\Andrew\source\repos\Wisp Player\WispContract\obj\Debug\WisContract.dll
+C:\Users\Andrew\source\repos\Wisp Player\WispContract\obj\Debug\WisContract.pdb
+C:\Users\Andrew\source\repos\Wisp Player\WispDebug\WisContract.dll.config
+C:\Users\Andrew\source\repos\Wisp Player\WispDebug\WisContract.dll
+C:\Users\Andrew\source\repos\Wisp Player\WispDebug\WisContract.pdb
+C:\Users\Andrew\source\repos\Wisp Player\WispContract\obj\Debug\WispContract.csprojResolveAssemblyReference.cache

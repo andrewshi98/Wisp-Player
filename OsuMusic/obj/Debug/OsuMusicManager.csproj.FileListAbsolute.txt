@@ -1,0 +1,6 @@
+c:\users\andrew\source\repos\Wisp Player\OsuMusicManager\bin\Debug\OsuMusicManager.dll
+c:\users\andrew\source\repos\Wisp Player\OsuMusicManager\bin\Debug\OsuMusicManager.pdb
+c:\users\andrew\source\repos\Wisp Player\OsuMusicManager\obj\Debug\OsuMusicManager.csprojResolveAssemblyReference.cache
+c:\users\andrew\source\repos\Wisp Player\OsuMusicManager\obj\Debug\OsuMusicManager.csproj.CoreCompileInputs.cache
+c:\users\andrew\source\repos\Wisp Player\OsuMusicManager\obj\Debug\OsuMusicManager.dll
+c:\users\andrew\source\repos\Wisp Player\OsuMusicManager\obj\Debug\OsuMusicManager.pdb

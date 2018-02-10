@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="FlexMusicCollection.MusicCollections"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FlexMusicCollection"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <DatePicker HorizontalAlignment="Left" Margin="46,36,0,0" VerticalAlignment="Top" Width="211"/>
+        <DatePicker HorizontalAlignment="Left" Margin="-5,173,0,0" VerticalAlignment="Top" Width="211" RenderTransformOrigin="0.5,0.5">
+            <DatePicker.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-45.078"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </DatePicker.RenderTransform>
+        </DatePicker>
+        <DatePicker HorizontalAlignment="Left" Margin="79,218,0,0" VerticalAlignment="Top" Width="211"/>
+        <DatePicker HorizontalAlignment="Left" Margin="71,144,0,0" VerticalAlignment="Top" Width="211" RenderTransformOrigin="0.5,0.5">
+            <DatePicker.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="33.1"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </DatePicker.RenderTransform>
+        </DatePicker>
+    </Grid>
+</UserControl>
